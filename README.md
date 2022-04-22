@@ -1,7 +1,6 @@
 # Two-Wheel-Balancing-Robot
 
 Gimbal controller BGC 3.1 (use as Arduino), gimbal motors GBM2804H-100T, MPU6050, magnetic encoders AS5600 connected over analog inputs.
-One of the servos I modified for continuous rotation.
 
 I use the Simple FOC library to control the BLDC motors.
 
