@@ -6,7 +6,7 @@ I use the Simple FOC library to control the BLDC motors.
 
 For remote control I use Joy BT Commander.
 
-Balancing controller can be tunning remotely over bluetooth.
+Balancing controller can be tuned remotely over bluetooth.
 
 Example:
 
